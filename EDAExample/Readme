@@ -14,3 +14,6 @@ Example 2: En este ejemplo se realiza un analisis exploratprop básico:
 - Se carga el archivo CSV y se utiliza su respectivo encoding
 - Se modifica el tipo de dato Object a un formato fecha adecuado
 - Se muestra el resumen estadistico del data frame
+
+Example 3: En este ejemplo se realiza un cambio al tipo de datos, utilizando una función para retirar
+strings los cuales no permiten la transformación directa
