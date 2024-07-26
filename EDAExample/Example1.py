@@ -11,7 +11,7 @@
 
 import pandas as pd
 
-# Se define la direccion donde se encuentra el documento
+# Se define la dirección donde se encuentra el documento
 
 url='../files/AIDS_Classification.csv'
 
