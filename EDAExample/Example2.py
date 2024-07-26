@@ -13,12 +13,20 @@ import pandas as pd
 
 # Se define la direccion donde se encuentra el documento
 
-url='../files/geoMap.csv'
+url='../files/LondonBikeJourneyAug2023.csv'
 
 # se crea un data frame apartir de la lectura del archivo csv
 df = pd.read_csv(url)
 
 # Mostramos las dimensiones del documento
 print(f'El data frame esta compuesto por {df.shape[1]} columnas y {df.shape[0]} filas')
+# Mostramos el tipo de datos en el data frame
+
+print(df.info())
+
+# En este caso notaremos  que existen datos tipos object por lo cual debemos visualizar algunos registros
 
 print(df.head(5))
+
+# Estos registros indican que los tipo object se refieren a fechas y horas por lo cual es necesario cambiar este tipo de datos
+

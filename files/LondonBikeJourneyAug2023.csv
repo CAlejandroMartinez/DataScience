@@ -1,0 +1,251 @@
+Number,Start date,Start station number,Start station,End date,End station number,End station,Bike number,Bike model,Total duration,Total duration (ms)
+132825189,08/01/2023 00:00,1190,"Kennington Lane Rail Bridge, Vauxhall",08/01/2023 00:17,1059,"Albert Embankment, Vauxhall",23715,CLASSIC,16m 46s,1006663
+132825190,08/01/2023 00:00,1190,"Kennington Lane Rail Bridge, Vauxhall",08/01/2023 00:17,1059,"Albert Embankment, Vauxhall",41267,CLASSIC,16m 47s,1007128
+132825191,08/01/2023 00:00,983,"Euston Road, Euston",08/01/2023 00:11,3500,"Baldwin Street, St. Luke's",53180,CLASSIC,11m 6s,666395
+132825192,08/01/2023 00:01,3479,"Old Brompton Road, South Kensington",08/01/2023 00:12,1140,"Grosvenor Road, Pimlico",53431,CLASSIC,11m 53s,713059
+132825193,08/01/2023 00:01,1219,"Lower Marsh, Waterloo",08/01/2023 00:17,200056,"Vauxhall Walk, Vauxhall",54758,CLASSIC,16m 3s,963786
+132825194,08/01/2023 00:01,1219,"Lower Marsh, Waterloo",08/01/2023 00:08,1205,"Black Prince Road, Vauxhall",52921,CLASSIC,7m 45s,465422
+132825195,08/01/2023 00:01,200120,"Grant Road East, Clapham Junction",08/01/2023 00:04,200126,"Usk Road, Clapham Junction",59224,CLASSIC,3m 26s,206583
+132825196,08/01/2023 00:01,200155,"Gascoyne Road, Victoria Park",08/01/2023 01:04,3469,"Cadogan Place, Knightsbridge",61178,PBSC_EBIKE,1h 2m 58s,3778515
+132825197,08/01/2023 00:01,300202,"Kings Gate House, Westminster",08/01/2023 00:18,1210,"Nevern Place, Earl's Court",51757,CLASSIC,17m 5s,1025908
+132825198,08/01/2023 00:01,1154,"Kennington Road  , Vauxhall",08/01/2023 00:09,1093,"Kennington Cross, Kennington",53424,CLASSIC,7m 16s,436692
+132825199,08/01/2023 00:02,200206,"Chicheley Street, South Bank",08/01/2023 00:32,1146,"Tysoe Street, Clerkenwell",58698,CLASSIC,30m 25s,1825371
+132825200,08/01/2023 00:02,22174,"Granby Street, Shoreditch",08/01/2023 00:13,22176,"Reardon Street, Wapping",60408,PBSC_EBIKE,10m 43s,643340
+132825201,08/01/2023 00:02,200206,"Chicheley Street, South Bank",08/01/2023 00:32,1146,"Tysoe Street, Clerkenwell",30830,CLASSIC,29m 38s,1778291
+132825202,08/01/2023 00:03,3431,"Grafton Street, Mayfair",08/01/2023 00:20,1220,"Imperial College, Knightsbridge",24052,CLASSIC,17m 21s,1041621
+132825203,08/01/2023 00:03,1212,"Concert Hall Approach 2, South Bank",08/01/2023 00:23,300005,"Ethelburga Estate, Battersea Park",51682,CLASSIC,20m 15s,1215619
+132825204,08/01/2023 00:03,200123,"Burdett Road, Mile End",08/01/2023 00:08,22178,"Lindfield Street, Poplar",57922,CLASSIC,5m 18s,318562
+132825205,08/01/2023 00:04,200150,"Cantrell Road, Bow",08/01/2023 00:19,200102,"Harford Street, Mile End",57910,CLASSIC,14m 56s,896171
+132825206,08/01/2023 00:05,1217,"Serpentine Car Park, Hyde Park",08/01/2023 00:30,972,"Hampstead Road, Euston",53293,CLASSIC,24m 50s,1490512
+132825207,08/01/2023 00:05,200215,"Greyhound Road, Hammersmith",08/01/2023 00:13,200215,"Greyhound Road, Hammersmith",21222,CLASSIC,8m 3s,483259
+132825208,08/01/2023 00:06,300079,"London Street, Paddington",08/01/2023 00:45,200121,"Shoreditch Court, Haggerston",54445,CLASSIC,39m 47s,2387182
+132825211,08/01/2023 00:06,200206,"Chicheley Street, South Bank",08/01/2023 00:32,1146,"Tysoe Street, Clerkenwell",22404,CLASSIC,26m 3s,1563918
+132825212,08/01/2023 00:06,200206,"Chicheley Street, South Bank",08/01/2023 00:32,1146,"Tysoe Street, Clerkenwell",58588,CLASSIC,25m 33s,1533212
+132825213,08/01/2023 00:06,2648,"Waterloo Bridge, South Bank",08/01/2023 00:15,3481,"Rodney Road , Walworth",53919,CLASSIC,8m 47s,527303
+132825215,08/01/2023 00:07,3452,"Panton Street, West End",08/01/2023 00:35,3496,"St Mary's Hospital, Paddington",57239,CLASSIC,28m 16s,1696701
+132825216,08/01/2023 00:07,1072,"Waterloo Station 3, Waterloo",08/01/2023 00:38,300234,"Stratford Station, Stratford",60448,PBSC_EBIKE,31m 7s,1867040
+132825217,08/01/2023 00:07,3452,"Panton Street, West End",08/01/2023 00:35,3496,"St Mary's Hospital, Paddington",54524,CLASSIC,27m 49s,1669021
+132825218,08/01/2023 00:07,200183,"Battersea Park Road, Nine Elms",08/01/2023 00:18,300051,"Hibbert Street, Battersea",51318,CLASSIC,11m 1s,661878
+132825214,08/01/2023 00:07,300221,"Battersea Power Station, Battersea Park",08/02/2023 13:42,300062,"South Bermondsey Station, Bermondsey",53826,CLASSIC,1d 13h 35m 46s,135346839
+132825221,08/01/2023 00:08,3457,"Rochester Row, Westminster",08/01/2023 00:52,200206,"Chicheley Street, South Bank",31074,CLASSIC,43m 50s,2630390
+132825222,08/01/2023 00:08,3457,"Rochester Row, Westminster",08/01/2023 00:52,200206,"Chicheley Street, South Bank",54294,CLASSIC,43m 56s,2636015
+132825219,08/01/2023 00:08,1077,"Royal London Hospital, Whitechapel",08/01/2023 00:12,200239,"Old Montague Street, Whitechapel",57599,CLASSIC,4m 8s,248129
+132825223,08/01/2023 00:09,1159,"Berry Street, Clerkenwell",08/01/2023 00:30,200105,"Bonny Street, Camden Town",23008,CLASSIC,21m 31s,1291365
+132825224,08/01/2023 00:09,3457,"Rochester Row, Westminster",08/01/2023 00:53,200206,"Chicheley Street, South Bank",52798,CLASSIC,43m 36s,2616230
+132825225,08/01/2023 00:09,1020,"Leonard Circus , Shoreditch",08/01/2023 00:26,1020,"Leonard Circus , Shoreditch",55324,CLASSIC,17m 25s,1045195
+132825226,08/01/2023 00:09,2694,"Clapham Common Station, Clapham Common",08/01/2023 00:14,300065,"Clapham Common North Side, Clapham Common",58209,CLASSIC,4m 55s,295908
+132825227,08/01/2023 00:09,1193,"Kensington Gore, Knightsbridge",08/01/2023 01:44,1204,"Queen's Gate (North), Kensington",41875,CLASSIC,1h 34m 38s,5678583
+132825220,08/01/2023 00:09,3457,"Rochester Row, Westminster",08/01/2023 00:53,200206,"Chicheley Street, South Bank",58740,CLASSIC,44m 11s,2651351
+132825228,08/01/2023 00:10,1193,"Kensington Gore, Knightsbridge",08/01/2023 01:44,1204,"Queen's Gate (North), Kensington",21181,CLASSIC,1h 33m 42s,5622507
+132825229,08/01/2023 00:10,200066,"Import Dock, Canary Wharf",08/01/2023 00:26,200249,"Queen Mary's, Mile End",22473,CLASSIC,15m 38s,938308
+132825230,08/01/2023 00:11,300039,"Wendon Street, Old Ford",08/01/2023 00:27,200123,"Burdett Road, Mile End",59642,CLASSIC,16m 4s,964242
+132825231,08/01/2023 00:11,3504,"Moor Street, Soho",08/01/2023 00:25,3461,"Sloane Avenue, Knightsbridge",59565,CLASSIC,14m 20s,860280
+132825232,08/01/2023 00:11,3504,"Moor Street, Soho",08/01/2023 00:25,3461,"Sloane Avenue, Knightsbridge",23790,CLASSIC,13m 54s,834963
+132825234,08/01/2023 00:12,300015,"Binfield Road, Stockwell",08/01/2023 00:23,200183,"Battersea Park Road, Nine Elms",21263,CLASSIC,11m 44s,704775
+132825235,08/01/2023 00:12,1076,"Walnut Tree Walk, Vauxhall",08/01/2023 00:21,200101,"Monument Street, Monument",59050,CLASSIC,9m 28s,568032
+132825237,08/01/2023 00:12,300015,"Binfield Road, Stockwell",08/01/2023 00:23,200183,"Battersea Park Road, Nine Elms",23107,CLASSIC,11m 32s,692568
+132825238,08/01/2023 00:12,200249,"Queen Mary's, Mile End",08/01/2023 00:17,200073,"Cephas Street, Bethnal Green",59997,CLASSIC,4m 26s,266997
+132825239,08/01/2023 00:12,200156,"Pott Street, Bethnal Green",08/01/2023 00:46,1189,"Long Lane , Bermondsey",40025,CLASSIC,33m 30s,2010841
+132825240,08/01/2023 00:12,1146,"Tysoe Street, Clerkenwell",08/01/2023 00:14,3471,"Chadwell Street, Angel",21496,CLASSIC,1m 58s,118914
+132825233,08/01/2023 00:12,2679,"George Row, Bermondsey",08/01/2023 00:35,300036,"Teversham Lane, Stockwell",22103,CLASSIC,23m 2s,1382592
+132825241,08/01/2023 00:13,3454,"Denyer Street, Knightsbridge",08/01/2023 00:27,1001,"West Cromwell Road, Earl's Court",57392,CLASSIC,14m 2s,842541
+132825242,08/01/2023 00:14,300060,"Brandon Street, Walworth",08/01/2023 00:20,960,"Hop Exchange, The Borough",60528,PBSC_EBIKE,6m 12s,372855
+132825243,08/01/2023 00:14,300079,"London Street, Paddington",08/01/2023 00:23,300079,"London Street, Paddington",60612,PBSC_EBIKE,9m 11s,551569
+132825244,08/01/2023 00:14,964,"Bath Street, St. Luke's",08/01/2023 00:22,3483,"Fashion Street, Whitechapel",51721,CLASSIC,7m 47s,467481
+132825245,08/01/2023 00:14,1108,"North Wharf Road, Paddington",08/01/2023 00:50,1108,"North Wharf Road, Paddington",53790,CLASSIC,36m 24s,2184240
+132825246,08/01/2023 00:14,1112,"Nutford Place, Marylebone",08/01/2023 02:51,1058,"Edgware Road Station, Marylebone",21821,CLASSIC,2h 36m 31s,9391883
+132825249,08/01/2023 00:15,300036,"Teversham Lane, Stockwell",08/01/2023 00:21,200194,"Clarence Walk, Stockwell",54110,CLASSIC,5m 49s,349023
+132825247,08/01/2023 00:15,1007,"Drury Lane, Covent Garden",08/01/2023 00:28,2703,"Fire Brigade Pier, Vauxhall",57702,CLASSIC,12m 51s,771477
+132825248,08/01/2023 00:15,200089,"Chrisp Street Market, Poplar",08/01/2023 00:22,200150,"Cantrell Road, Bow",52588,CLASSIC,7m 26s,446279
+132825251,08/01/2023 00:16,1162,"Dorset Square, Marylebone",08/01/2023 00:19,10625,"Penfold Street, Marylebone",60140,PBSC_EBIKE,3m 33s,213240
+132825252,08/01/2023 00:16,1029,"Windsor Terrace, Hoxton",08/01/2023 00:20,200248,"Pitfield Street Central, Hoxton",56978,CLASSIC,4m 45s,285391
+132825253,08/01/2023 00:16,200156,"Pott Street, Bethnal Green",08/01/2023 00:24,200239,"Old Montague Street, Whitechapel",58995,CLASSIC,8m 12s,492409
+132825250,08/01/2023 00:16,200010,"Manresa Road, Chelsea",08/01/2023 00:37,200110,"Bishop's Bridge Road West, Bayswater",23294,CLASSIC,21m 46s,1306309
+132825254,08/01/2023 00:17,200084,"Doddington Grove, Kennington",08/01/2023 00:30,300060,"Brandon Street, Walworth",35110,CLASSIC,12m 29s,749602
+132825413,08/01/2023 00:17,1184,"St. Mary Axe, Aldgate",08/01/2023 00:34,200178,"Buckingham Gate, Westminster",58944,CLASSIC,17m 2s,1022835
+132825255,08/01/2023 00:19,1142,"Tooley Street, Bermondsey",08/01/2023 00:27,200076,"Westminster Bridge Road, Elephant & Castle",58846,CLASSIC,7m 57s,477649
+132825256,08/01/2023 00:19,200042,"York Hall, Bethnal Green",08/01/2023 00:22,300011,"Victoria Park Road, Hackney Central",53978,CLASSIC,2m 55s,175329
+132825257,08/01/2023 00:20,3497,"Rathbone Street, Fitzrovia",08/01/2023 00:26,1025,"Bolsover Street, Fitzrovia",50339,CLASSIC,5m 54s,354137
+132825259,08/01/2023 00:21,988,"Great Russell Street, Bloomsbury",08/01/2023 00:46,200147,"Salmon Lane, Limehouse",21636,CLASSIC,24m 31s,1471306
+132825258,08/01/2023 00:21,22177,"Christian Street, Whitechapel",08/01/2023 00:24,200020,"Shadwell Station, Shadwell",56594,CLASSIC,3m 12s,192336
+132825261,08/01/2023 00:22,1160,"Craven Street, Strand",08/01/2023 00:32,1196,"Vincent Square, Westminster",57526,CLASSIC,9m 27s,567075
+132825260,08/01/2023 00:22,300021,"Podium, Queen Elizabeth Olympic Park",08/01/2023 00:37,300021,"Podium, Queen Elizabeth Olympic Park",52777,CLASSIC,15m 43s,943350
+132825262,08/01/2023 00:24,200135,"Selby Street, Whitechapel",08/01/2023 01:08,200135,"Selby Street, Whitechapel",58626,CLASSIC,43m 53s,2633613
+132825263,08/01/2023 00:24,1171,"New Road 1 , Whitechapel",08/01/2023 00:33,2667,"Tower Wharf, Bermondsey",56810,CLASSIC,9m 23s,563368
+132825264,08/01/2023 00:24,3450,"Great Titchfield Street, Fitzrovia",08/01/2023 00:30,1022,"Brunswick Square, Bloomsbury",41334,CLASSIC,6m 14s,374664
+132825265,08/01/2023 00:24,300053,"Stephendale Road, Sands End",08/01/2023 00:42,200079,"Ram Street, Wandsworth",42227,CLASSIC,17m 50s,1070000
+132825266,08/01/2023 00:24,300053,"Stephendale Road, Sands End",08/01/2023 00:42,200079,"Ram Street, Wandsworth",58808,CLASSIC,17m 46s,1066049
+132825267,08/01/2023 00:25,10630,"George Place Mews, Marylebone",08/01/2023 00:48,300243,"Good's Way, King's Cross",41099,CLASSIC,23m 2s,1382997
+132825268,08/01/2023 00:26,3435,"Gloucester Road (Central), South Kensington",08/01/2023 00:46,3425,"Northington Street , Holborn",58759,CLASSIC,19m 44s,1184321
+132825269,08/01/2023 00:26,1094,"Wright's Lane, Kensington",08/01/2023 00:35,300084,"Sirdar Road, Avondale",20225,CLASSIC,8m 46s,526430
+132825270,08/01/2023 00:26,1031,"Nesham Street, Wapping",08/01/2023 00:36,200216,"Clements Road, Bermondsey",30553,CLASSIC,9m 34s,574597
+132825271,08/01/2023 00:26,991,"Crosswall, Tower",08/01/2023 00:40,200161,"Clinton Road, Mile End",54947,CLASSIC,13m 47s,827983
+132825272,08/01/2023 00:26,300060,"Brandon Street, Walworth",08/01/2023 00:32,990,"Cotton Garden Estate, Kennington",56013,CLASSIC,5m 48s,348563
+132825273,08/01/2023 00:27,1071,"Tower Gardens , Tower",08/01/2023 00:51,988,"Great Russell Street, Bloomsbury",58282,CLASSIC,23m 55s,1435293
+132825274,08/01/2023 00:27,1071,"Tower Gardens , Tower",08/01/2023 00:51,988,"Great Russell Street, Bloomsbury",14107,CLASSIC,24m 0s,1440618
+132825275,08/01/2023 00:27,1011,"Argyle Street, Kings Cross",08/01/2023 00:48,200122,"Hawley Crescent, Camden Town",21034,CLASSIC,20m 51s,1251603
+132825276,08/01/2023 00:28,300086,"Fulham Broadway, Walham Green",08/01/2023 00:41,200237,"Parson's Green , Parson's Green",56710,CLASSIC,13m 54s,834428
+132825277,08/01/2023 00:28,200042,"York Hall, Bethnal Green",08/01/2023 00:35,3426,"Lansdowne Drive, Hackney Central",24343,CLASSIC,7m 18s,438193
+132825278,08/01/2023 00:28,1112,"Nutford Place, Marylebone",08/01/2023 02:51,1058,"Edgware Road Station, Marylebone",41737,CLASSIC,2h 23m 7s,8587044
+132825279,08/01/2023 00:28,1171,"New Road 1 , Whitechapel",08/01/2023 00:37,3467,"Dock Street, Wapping",51658,CLASSIC,8m 55s,535693
+132825280,08/01/2023 00:28,3445,"Shoreditch High Street, Shoreditch",08/01/2023 00:38,3445,"Shoreditch High Street, Shoreditch",52212,CLASSIC,9m 56s,596768
+132825281,08/01/2023 00:29,200172,"Lansdowne Road, Ladbroke Grove",08/01/2023 01:00,200023,"Heath Road, Battersea",40869,CLASSIC,31m 44s,1904715
+132825282,08/01/2023 00:29,200193,"Snowsfields, London Bridge",08/01/2023 00:36,3481,"Rodney Road , Walworth",61145,PBSC_EBIKE,6m 14s,374949
+132825283,08/01/2023 00:30,988,"Great Russell Street, Bloomsbury",08/01/2023 00:39,986,"Finsbury Library , Finsbury",57090,CLASSIC,9m 14s,554046
+132825284,08/01/2023 00:30,1126,"North Audley Street, Mayfair",08/01/2023 00:59,300053,"Stephendale Road, Sands End",51861,CLASSIC,29m 42s,1782398
+132825285,08/01/2023 00:30,3429,"Abbey Orchard Street, Westminster",08/01/2023 03:45,2587,"Wormwood Street, Liverpool Street",41364,CLASSIC,3h 14m 47s,11687329
+132825286,08/01/2023 00:30,3429,"Abbey Orchard Street, Westminster",08/01/2023 03:44,2587,"Wormwood Street, Liverpool Street",20843,CLASSIC,3h 14m 5s,11645449
+132825288,08/01/2023 00:31,3429,"Abbey Orchard Street, Westminster",08/01/2023 03:45,2587,"Wormwood Street, Liverpool Street",35546,CLASSIC,3h 14m 22s,11662845
+132825289,08/01/2023 00:31,200083,"Pritchard's Road, Bethnal Green",08/01/2023 00:45,200234,"Bancroft Road, Bethnal Green",59508,CLASSIC,14m 35s,875682
+132825290,08/01/2023 00:31,988,"Great Russell Street, Bloomsbury",08/01/2023 00:42,3468,"Margery Street, Clerkenwell",57422,CLASSIC,11m 32s,692551
+132825291,08/01/2023 00:31,3445,"Shoreditch High Street, Shoreditch",08/01/2023 00:35,3483,"Fashion Street, Whitechapel",59419,CLASSIC,3m 32s,212447
+132825292,08/01/2023 00:31,1100444,"Strand, Strand_OLD",08/01/2023 00:35,300096,"Tallis Street, Temple",57349,CLASSIC,3m 38s,218271
+132825287,08/01/2023 00:31,973,"Bethnal Green Road, Shoreditch",08/01/2023 00:57,300227,"Timber Lodge, Queen Elizabeth Olympic Park",11906,CLASSIC,26m 46s,1606777
+132825293,08/01/2023 00:32,1186,"Belvedere Road 1, South Bank",08/01/2023 00:44,1165,"Riverlight North, Nine Elms",41761,CLASSIC,11m 31s,691633
+132825294,08/01/2023 00:32,200083,"Pritchard's Road, Bethnal Green",08/01/2023 00:43,1054,"East Road, Hoxton",50956,CLASSIC,10m 34s,634720
+132825295,08/01/2023 00:32,300060,"Brandon Street, Walworth",08/01/2023 00:46,1135,"Claverton Street, Pimlico",60137,PBSC_EBIKE,13m 20s,800469
+132825296,08/01/2023 00:33,200004,"Lightermans Road, Millwall",08/01/2023 01:02,200004,"Lightermans Road, Millwall",53436,CLASSIC,29m 47s,1787723
+132825297,08/01/2023 00:33,10621,"Upper Grosvenor Street, Mayfair",08/01/2023 00:39,3464,"Green Street, Mayfair",55494,CLASSIC,5m 45s,345630
+132825298,08/01/2023 00:33,2694,"Clapham Common Station, Clapham Common",08/01/2023 00:45,200077,"Vicarage Crescent, Battersea",52398,CLASSIC,11m 36s,696170
+132825299,08/01/2023 00:33,300051,"Hibbert Street, Battersea",08/01/2023 02:46,1096,"Bayswater Road, Hyde Park",60502,PBSC_EBIKE,2h 12m 12s,7932713
+132825302,08/01/2023 00:34,22180,"Cheapside, Bank",08/01/2023 01:13,3481,"Rodney Road , Walworth",23720,CLASSIC,39m 46s,2386050
+132825303,08/01/2023 00:34,200083,"Pritchard's Road, Bethnal Green",08/01/2023 00:45,964,"Bath Street, St. Luke's",30376,CLASSIC,11m 21s,681190
+132825304,08/01/2023 00:34,200004,"Lightermans Road, Millwall",08/01/2023 01:03,200004,"Lightermans Road, Millwall",56926,CLASSIC,29m 22s,1762303
+132825305,08/01/2023 00:34,200183,"Battersea Park Road, Nine Elms",08/01/2023 00:42,300073,"Prince of Wales Drive, Battersea Park",17447,CLASSIC,7m 36s,456076
+132825306,08/01/2023 00:34,200004,"Lightermans Road, Millwall",08/01/2023 01:02,200004,"Lightermans Road, Millwall",56355,CLASSIC,28m 12s,1692346
+132825307,08/01/2023 00:34,300015,"Binfield Road, Stockwell",08/01/2023 00:38,200173,"Courland Grove, Wandsworth Road",42098,CLASSIC,3m 40s,220857
+132825300,08/01/2023 00:34,1028,"William IV Street, Strand",08/01/2023 00:44,2703,"Fire Brigade Pier, Vauxhall",57582,CLASSIC,9m 59s,599363
+132825301,08/01/2023 00:34,200110,"Bishop's Bridge Road West, Bayswater",08/01/2023 01:21,1041,"Westbourne Grove, Bayswater",54590,CLASSIC,47m 17s,2837565
+132825308,08/01/2023 00:35,200004,"Lightermans Road, Millwall",08/01/2023 01:03,200004,"Lightermans Road, Millwall",60149,PBSC_EBIKE,28m 0s,1680753
+132825309,08/01/2023 00:35,2662,"Butler Place, Westminster",08/01/2023 00:52,200119,"Dorothy Road, Clapham Junction",55362,CLASSIC,17m 15s,1035666
+132825310,08/01/2023 00:35,990,"Cotton Garden Estate, Kennington",08/01/2023 02:38,300050,"Walworth Square, Walworth",56013,CLASSIC,2h 2m 33s,7353983
+132825311,08/01/2023 00:35,300079,"London Street, Paddington",08/01/2023 00:52,300084,"Sirdar Road, Avondale",55607,CLASSIC,16m 29s,989224
+132825312,08/01/2023 00:37,3458,"Waterloo Place, St. James's",08/01/2023 01:13,1071,"Tower Gardens , Tower",42081,CLASSIC,36m 11s,2171286
+132825313,08/01/2023 00:37,1067,"St. James's Square, St. James's",08/01/2023 00:44,1219,"Lower Marsh, Waterloo",58631,CLASSIC,6m 44s,404137
+132825314,08/01/2023 00:37,3458,"Waterloo Place, St. James's",08/01/2023 01:13,1071,"Tower Gardens , Tower",40129,CLASSIC,36m 0s,2160942
+132825315,08/01/2023 00:37,3458,"Waterloo Place, St. James's",08/01/2023 01:13,1071,"Tower Gardens , Tower",57917,CLASSIC,35m 58s,2158828
+132825316,08/01/2023 00:38,200133,"South Lambeth Road, Vauxhall",08/01/2023 00:44,300225,"Normandy Road, Stockwell",50322,CLASSIC,6m 37s,397162
+132825317,08/01/2023 00:39,300091,"Hortensia Road, West Brompton",08/01/2023 02:20,1106,"Rampayne Street, Pimlico",58970,CLASSIC,1h 40m 43s,6043721
+132825318,08/01/2023 00:39,995,"Little Argyll Street, West End",08/01/2023 00:52,1108,"North Wharf Road, Paddington",55219,CLASSIC,13m 7s,787436
+132825319,08/01/2023 00:40,1062,"Braham Street, Aldgate",08/01/2023 00:47,200021,"Hermitage Court, Wapping",24299,CLASSIC,6m 44s,404484
+132825320,08/01/2023 00:40,991,"Crosswall, Tower",08/01/2023 00:54,200002,"Jubilee Street, Stepney",58237,CLASSIC,14m 19s,859422
+132825321,08/01/2023 00:41,1072,"Waterloo Station 3, Waterloo",08/01/2023 00:51,3481,"Rodney Road , Walworth",52088,CLASSIC,9m 28s,568214
+132825322,08/01/2023 00:41,2696,"Waterloo Station 1, Waterloo",08/01/2023 00:59,979,"Wenlock Road , Hoxton",58893,CLASSIC,17m 56s,1076529
+132825323,08/01/2023 00:42,300229,"Sidney Road, Stockwell",08/01/2023 00:49,300063,"Burgess Park Albany Road, Walworth",60372,PBSC_EBIKE,7m 18s,438931
+132825324,08/01/2023 00:42,300073,"Prince of Wales Drive, Battersea Park",08/01/2023 00:53,300046,"Alma Road, Wandsworth",60292,PBSC_EBIKE,10m 26s,626845
+132825325,08/01/2023 00:43,1050,"Park Road (Baker Street), The Regent's Park",08/01/2023 00:52,1130,"Grove End Road, St. John's Wood",22164,CLASSIC,9m 13s,553477
+132825326,08/01/2023 00:43,300021,"Podium, Queen Elizabeth Olympic Park",08/01/2023 00:54,200006,"Hewison Street, Old Ford",52777,CLASSIC,10m 24s,624626
+132825327,08/01/2023 00:44,200096,"Green Park Station, Mayfair",08/01/2023 05:01,1133,"Baylis Road, Waterloo",57056,CLASSIC,4h 16m 46s,15406499
+132825328,08/01/2023 00:44,200096,"Green Park Station, Mayfair",08/01/2023 05:01,1133,"Baylis Road, Waterloo",31018,CLASSIC,4h 16m 38s,15398108
+132825329,08/01/2023 00:45,200004,"Lightermans Road, Millwall",08/01/2023 01:03,200004,"Lightermans Road, Millwall",58107,CLASSIC,17m 37s,1057304
+132825330,08/01/2023 00:46,22177,"Christian Street, Whitechapel",08/01/2023 00:54,1223,"Buxton Street 1, Shoreditch",50861,CLASSIC,8m 30s,510587
+132825331,08/01/2023 00:47,300032,"Victoria & Albert Museum, South Kensington",08/01/2023 01:43,1193,"Kensington Gore, Knightsbridge",54232,CLASSIC,55m 46s,3346545
+132825332,08/01/2023 00:47,300032,"Victoria & Albert Museum, South Kensington",08/01/2023 01:43,1193,"Kensington Gore, Knightsbridge",53345,CLASSIC,55m 45s,3345539
+132825333,08/01/2023 00:47,300032,"Victoria & Albert Museum, South Kensington",08/01/2023 01:43,1193,"Kensington Gore, Knightsbridge",35528,CLASSIC,55m 27s,3327150
+132825335,08/01/2023 00:48,200134,"Albany Street, The Regent's Park",08/01/2023 00:56,300212,"Birkenhead Street, King's Cross",59179,CLASSIC,8m 26s,506606
+132825336,08/01/2023 00:48,300236,"Bevington Road West, North Kensington",08/01/2023 00:53,300057,"Westbourne Park Road, Portobello",55087,CLASSIC,4m 42s,282821
+132825334,08/01/2023 00:48,200096,"Green Park Station, Mayfair",08/01/2023 05:01,1133,"Baylis Road, Waterloo",53343,CLASSIC,4h 13m 14s,15194653
+132825337,08/01/2023 00:49,300228,"Westferry Circus, Canary Wharf",08/01/2023 01:24,200025,"London Fields, Hackney Central",53365,CLASSIC,34m 57s,2097145
+132825338,08/01/2023 00:49,1087,"Belgrave Road, Victoria",08/01/2023 01:23,200147,"Salmon Lane, Limehouse",56650,CLASSIC,33m 37s,2017528
+132825339,08/01/2023 00:50,1162,"Dorset Square, Marylebone",08/01/2023 01:01,200122,"Hawley Crescent, Camden Town",59403,CLASSIC,10m 54s,654091
+132825340,08/01/2023 00:50,3496,"St Mary's Hospital, Paddington",08/01/2023 00:59,3423,"Maida Vale, Maida Vale",58139,CLASSIC,8m 33s,513519
+132825341,08/01/2023 00:51,3464,"Green Street, Mayfair",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",55494,CLASSIC,17m 57s,1077530
+132825342,08/01/2023 00:51,300243,"Good's Way, King's Cross",08/01/2023 01:21,2660,"Frith Street, Soho",24172,CLASSIC,30m 25s,1825028
+132825343,08/01/2023 00:51,300046,"Alma Road, Wandsworth",08/01/2023 00:57,300053,"Stephendale Road, Sands End",51973,CLASSIC,5m 57s,357808
+132825344,08/01/2023 00:52,1026,"Roscoe Street, St. Luke's",08/01/2023 01:08,1062,"Braham Street, Aldgate",59819,CLASSIC,16m 41s,1001928
+132825345,08/01/2023 00:52,3464,"Green Street, Mayfair",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",41164,CLASSIC,16m 42s,1002452
+132825347,08/01/2023 00:53,1213,"Curlew Street, Shad Thames",08/01/2023 01:46,1213,"Curlew Street, Shad Thames",21720,CLASSIC,53m 25s,3205697
+132825346,08/01/2023 00:53,1213,"Curlew Street, Shad Thames",08/01/2023 01:46,1213,"Curlew Street, Shad Thames",30113,CLASSIC,53m 29s,3209390
+132825348,08/01/2023 00:54,3464,"Green Street, Mayfair",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",54894,CLASSIC,14m 42s,882457
+132825349,08/01/2023 00:54,3464,"Green Street, Mayfair",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",19663,CLASSIC,14m 44s,884193
+132825350,08/01/2023 00:54,300045,"Albert Bridge Road, Battersea Park",08/01/2023 01:08,200113,"Smugglers Way, Wandsworth",58762,CLASSIC,13m 34s,814624
+132825351,08/01/2023 00:54,1037,"Park Lane , Hyde Park",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",52394,CLASSIC,14m 12s,852477
+132825353,08/01/2023 00:55,300061,"Crimscott Street, Bermondsey",08/01/2023 01:05,22162,"Southwark Station 1, Southwark",20538,CLASSIC,10m 7s,607946
+132825354,08/01/2023 00:55,300026,"All Saints' Road, Portobello",08/01/2023 01:05,200136,"BBC White City, White City",55584,CLASSIC,10m 22s,622421
+132825355,08/01/2023 00:55,1037,"Park Lane , Hyde Park",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",54544,CLASSIC,13m 45s,825788
+132825352,08/01/2023 00:55,300026,"All Saints' Road, Portobello",08/01/2023 01:05,200136,"BBC White City, White City",58307,CLASSIC,10m 41s,641617
+132825356,08/01/2023 00:56,981,"British Museum, Bloomsbury",08/01/2023 01:11,2701,"Columbia Road, Shoreditch",35105,CLASSIC,15m 26s,926873
+132825357,08/01/2023 00:56,1037,"Park Lane , Hyde Park",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",55315,CLASSIC,12m 32s,752292
+132825358,08/01/2023 00:57,1037,"Park Lane , Hyde Park",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",54613,CLASSIC,11m 46s,706561
+132825359,08/01/2023 00:58,200101,"Monument Street, Monument",08/01/2023 01:17,300228,"Westferry Circus, Canary Wharf",59050,CLASSIC,19m 27s,1167938
+132825360,08/01/2023 00:59,1037,"Park Lane , Hyde Park",08/01/2023 01:09,3495,"Wells Street, Fitzrovia",52054,CLASSIC,10m 4s,604841
+132825361,08/01/2023 00:59,964,"Bath Street, St. Luke's",08/01/2023 01:03,3427,"Fanshaw Street, Hoxton",59265,CLASSIC,3m 38s,218044
+132825362,08/01/2023 01:00,3445,"Shoreditch High Street, Shoreditch",08/01/2023 01:06,200042,"York Hall, Bethnal Green",52212,CLASSIC,6m 43s,403970
+132825363,08/01/2023 01:00,1100444,"Strand, Strand_OLD",08/01/2023 01:21,300235,"York Way, Kings Cross",21746,CLASSIC,20m 34s,1234320
+132825364,08/01/2023 01:00,200102,"Harford Street, Mile End",08/01/2023 01:12,200089,"Chrisp Street Market, Poplar",57910,CLASSIC,11m 57s,717278
+132825365,08/01/2023 01:01,200161,"Clinton Road, Mile End",08/01/2023 01:09,200148,"Ansell House, Stepney",23963,CLASSIC,7m 14s,434384
+132825366,08/01/2023 01:02,200144,"Sea Containers, South Bank",08/01/2023 01:17,200084,"Doddington Grove, Kennington",58873,CLASSIC,15m 7s,907316
+132825367,08/01/2023 01:02,200089,"Chrisp Street Market, Poplar",08/01/2023 01:12,200082,"St. Mary & St. Michael Church, Stepney",60543,PBSC_EBIKE,9m 50s,590679
+132825368,08/01/2023 01:02,200144,"Sea Containers, South Bank",08/01/2023 01:20,300063,"Burgess Park Albany Road, Walworth",56317,CLASSIC,17m 16s,1036958
+132825369,08/01/2023 01:02,200144,"Sea Containers, South Bank",08/01/2023 01:17,200084,"Doddington Grove, Kennington",56188,CLASSIC,14m 42s,882020
+132825370,08/01/2023 01:03,300068,"Humbolt Road, Fulham",08/01/2023 01:05,300018,"Charing Cross Hospital, Hammersmith",56142,CLASSIC,2m 49s,169572
+132825371,08/01/2023 01:03,200144,"Sea Containers, South Bank",08/01/2023 01:17,200084,"Doddington Grove, Kennington",51947,CLASSIC,14m 12s,852388
+132825372,08/01/2023 01:04,200163,"Jubilee Plaza, Canary Wharf",08/01/2023 01:17,22166,"Albert Gardens, Stepney",51807,CLASSIC,12m 16s,736099
+132825373,08/01/2023 01:05,1004,"Doric Way , Somers Town",08/01/2023 01:16,200051,"Percival Street, Finsbury",54628,CLASSIC,11m 45s,705397
+132825374,08/01/2023 01:05,200011,"Furze Green, Bow",08/01/2023 01:25,200212,"Blackfriars Station, St. Paul's",57646,CLASSIC,19m 24s,1164200
+132825375,08/01/2023 01:05,200156,"Pott Street, Bethnal Green",08/01/2023 01:14,300056,"Mile End Stadium, Mile End",56729,CLASSIC,8m 58s,538851
+132825376,08/01/2023 01:05,1104,"Claremont Square, Angel",08/01/2023 01:18,1151,"Whitehall Place, Strand",60553,PBSC_EBIKE,12m 16s,736643
+132825377,08/01/2023 01:06,200038,"Ackroyd Drive, Bow",08/01/2023 01:12,200019,"Malmesbury Road, Bow",55075,CLASSIC,5m 58s,358532
+132825378,08/01/2023 01:06,1179,"Chelsea Green, Chelsea",08/01/2023 01:24,3492,"Putney Pier, Wandsworth",51665,CLASSIC,17m 27s,1047700
+132825379,08/01/2023 01:06,1050,"Park Road (Baker Street), The Regent's Park",08/01/2023 01:10,200134,"Albany Street, The Regent's Park",58855,CLASSIC,4m 20s,260600
+132825380,08/01/2023 01:06,300058,"The Vale, Chelsea",08/01/2023 01:24,200153,"Blythe Road, Olympia",58332,CLASSIC,18m 4s,1084804
+132825381,08/01/2023 01:06,1104,"Claremont Square, Angel",08/01/2023 01:18,1151,"Whitehall Place, Strand",60442,PBSC_EBIKE,11m 13s,673239
+132825382,08/01/2023 01:07,1154,"Kennington Road  , Vauxhall",08/01/2023 01:24,1135,"Claverton Street, Pimlico",22522,CLASSIC,17m 5s,1025020
+132825383,08/01/2023 01:07,1154,"Kennington Road  , Vauxhall",08/01/2023 01:21,965,"Tachbrook Street, Victoria",58155,CLASSIC,14m 9s,849996
+132825384,08/01/2023 01:07,200034,"Wapping Lane, Wapping",08/01/2023 01:34,1191,"Barbican Centre, Barbican",59653,CLASSIC,27m 10s,1630411
+132825386,08/01/2023 01:07,997,"Worship Street, Shoreditch",08/01/2023 01:15,1051,"Shoreditch Park, Hoxton",16358,CLASSIC,8m 16s,496598
+132825387,08/01/2023 01:07,1154,"Kennington Road  , Vauxhall",08/01/2023 01:18,1155,"Regency Street, Westminster",56822,CLASSIC,10m 11s,611105
+132825388,08/01/2023 01:08,200058,"Northdown Street, King's Cross",08/01/2023 01:10,3470,"Great Percy Street, Clerkenwell",55477,CLASSIC,2m 41s,161307
+132825389,08/01/2023 01:10,1038,"Harrington Square 1, Camden Town",08/01/2023 01:22,1058,"Edgware Road Station, Marylebone",52647,CLASSIC,12m 29s,749192
+132825391,08/01/2023 01:11,1097,"Northumberland Avenue, Strand",08/01/2023 01:32,1171,"New Road 1 , Whitechapel",57792,CLASSIC,21m 6s,1266446
+132825390,08/01/2023 01:11,300077,"Ingrave Street, Clapham Junction",08/01/2023 01:19,200079,"Ram Street, Wandsworth",52434,CLASSIC,8m 13s,493688
+132825393,08/01/2023 01:12,22163,"Southwark Station 2, Southwark",08/01/2023 01:22,200084,"Doddington Grove, Kennington",55025,CLASSIC,10m 1s,601176
+132825392,08/01/2023 01:12,1097,"Northumberland Avenue, Strand",08/01/2023 01:32,1171,"New Road 1 , Whitechapel",54931,CLASSIC,20m 36s,1236838
+132825394,08/01/2023 01:13,300091,"Hortensia Road, West Brompton",08/01/2023 01:44,3496,"St Mary's Hospital, Paddington",59458,CLASSIC,30m 57s,1857717
+132825395,08/01/2023 01:13,200011,"Furze Green, Bow",08/01/2023 01:22,200161,"Clinton Road, Mile End",23031,CLASSIC,9m 15s,555829
+132825396,08/01/2023 01:13,200227,"Westfield Library Corner, Shepherd's Bush",08/01/2023 01:24,300023,"All Saints Church, Portobello",59409,CLASSIC,10m 51s,651177
+132825397,08/01/2023 01:13,200011,"Furze Green, Bow",08/01/2023 01:22,200161,"Clinton Road, Mile End",53064,CLASSIC,9m 4s,544119
+132825398,08/01/2023 01:13,200011,"Furze Green, Bow",08/01/2023 01:22,200161,"Clinton Road, Mile End",40583,CLASSIC,8m 31s,511608
+132825399,08/01/2023 01:13,200206,"Chicheley Street, South Bank",08/01/2023 02:00,3457,"Rochester Row, Westminster",59397,CLASSIC,46m 6s,2766055
+132825400,08/01/2023 01:15,3504,"Moor Street, Soho",08/01/2023 01:23,1003,"Chapel Place, Marylebone",23190,CLASSIC,8m 27s,507236
+132825401,08/01/2023 01:15,200206,"Chicheley Street, South Bank",08/01/2023 02:00,3457,"Rochester Row, Westminster",53399,CLASSIC,44m 58s,2698272
+132825402,08/01/2023 01:16,1190,"Kennington Lane Rail Bridge, Vauxhall",08/01/2023 01:36,300070,"Imperial Wharf Station, Sands End",23069,CLASSIC,19m 41s,1181116
+132825403,08/01/2023 01:17,3452,"Panton Street, West End",08/01/2023 01:40,1117,"Lambeth North Station, Waterloo",15047,CLASSIC,22m 33s,1353755
+132825404,08/01/2023 01:17,300079,"London Street, Paddington",08/01/2023 01:19,3496,"St Mary's Hospital, Paddington",24069,CLASSIC,2m 6s,126812
+132825405,08/01/2023 01:17,3452,"Panton Street, West End",08/01/2023 01:40,1117,"Lambeth North Station, Waterloo",58015,CLASSIC,22m 9s,1329255
+132825406,08/01/2023 01:18,200098,"Aintree Street, Fulham",08/01/2023 01:31,200214,"Woodstock Grove, Shepherd's Bush",59189,CLASSIC,12m 45s,765295
+132825407,08/01/2023 01:19,1010,"Cartwright Gardens , Bloomsbury",08/01/2023 01:22,969,"Gower Place , Euston",52525,CLASSIC,3m 14s,194335
+132825408,08/01/2023 01:20,300216,"Gas Holders, Battersea Park",08/01/2023 01:26,1140,"Grosvenor Road, Pimlico",57033,CLASSIC,5m 54s,354014
+132825409,08/01/2023 01:22,3427,"Fanshaw Street, Hoxton",08/01/2023 02:14,3427,"Fanshaw Street, Hoxton",59265,CLASSIC,52m 15s,3135029
+132825410,08/01/2023 01:23,22174,"Granby Street, Shoreditch",08/01/2023 01:28,200151,"Hoxton Station, Hoxton",53007,CLASSIC,5m 18s,318341
+132825411,08/01/2023 01:23,1224,"Vauxhall Street, Vauxhall",08/01/2023 01:35,300061,"Crimscott Street, Bermondsey",59318,CLASSIC,11m 46s,706192
+132825412,08/01/2023 01:25,1134,"Warwick Road, Olympia",08/01/2023 01:54,1134,"Warwick Road, Olympia",21202,CLASSIC,28m 58s,1738678
+132825414,08/01/2023 01:25,1134,"Warwick Road, Olympia",08/01/2023 01:54,1134,"Warwick Road, Olympia",40755,CLASSIC,28m 53s,1733223
+132825415,08/01/2023 01:26,3444,"Penywern Road, Earl's Court",08/01/2023 01:34,3436,"Derry Street, Kensington",56149,CLASSIC,7m 32s,452600
+132825416,08/01/2023 01:28,200247,"Globe Town Market, Bethnal Green",08/01/2023 01:34,200003,"Cheshire Street, Bethnal Green",59241,CLASSIC,5m 50s,350808
+132825417,08/01/2023 01:29,22183,"Crinan Street, King's Cross",08/01/2023 01:53,300236,"Bevington Road West, North Kensington",53660,CLASSIC,24m 50s,1490200
+132825418,08/01/2023 01:30,1220,"Imperial College, Knightsbridge",08/01/2023 01:52,300037,"Ravenscourt Park Station, Hammersmith",24052,CLASSIC,22m 6s,1326009
+132825419,08/01/2023 01:32,1064,"Old Street Station, St. Luke's",08/01/2023 01:52,3452,"Panton Street, West End",14316,CLASSIC,19m 20s,1160072
+132825420,08/01/2023 01:32,3504,"Moor Street, Soho",08/01/2023 01:52,960,"Hop Exchange, The Borough",22847,CLASSIC,19m 4s,1144369
+132825421,08/01/2023 01:33,988,"Great Russell Street, Bloomsbury",08/01/2023 02:03,200193,"Snowsfields, London Bridge",56674,CLASSIC,30m 40s,1840055
+132825422,08/01/2023 01:33,1064,"Old Street Station, St. Luke's",08/01/2023 01:52,3452,"Panton Street, West End",50452,CLASSIC,19m 22s,1162416
+132825423,08/01/2023 01:33,300074,"Newton Street, Covent Garden",08/01/2023 02:22,300074,"Newton Street, Covent Garden",60349,PBSC_EBIKE,49m 5s,2945514
+132825428,08/01/2023 01:34,300226,"Copper Box Arena, Queen Elizabeth Olympic Park",08/01/2023 01:49,300011,"Victoria Park Road, Hackney Central",51272,CLASSIC,15m 26s,926953
+132825429,08/01/2023 01:34,1227,"Devonshire Terrace, Bayswater",08/01/2023 01:38,300079,"London Street, Paddington",59493,CLASSIC,3m 53s,233333
+132825430,08/01/2023 01:34,1064,"Old Street Station, St. Luke's",08/01/2023 01:52,3452,"Panton Street, West End",30075,CLASSIC,18m 11s,1091429
+132825431,08/01/2023 01:34,300226,"Copper Box Arena, Queen Elizabeth Olympic Park",08/01/2023 01:49,300011,"Victoria Park Road, Hackney Central",56025,CLASSIC,15m 25s,925242
+132825432,08/01/2023 01:34,1227,"Devonshire Terrace, Bayswater",08/01/2023 01:38,300079,"London Street, Paddington",59736,CLASSIC,3m 41s,221588
+132825424,08/01/2023 01:34,1083,"Commercial Street, Shoreditch",08/01/2023 01:46,3470,"Great Percy Street, Clerkenwell",56436,CLASSIC,12m 40s,760316
+132825425,08/01/2023 01:34,1103,"Gloucester Street, Pimlico",08/01/2023 01:38,1140,"Grosvenor Road, Pimlico",31021,CLASSIC,4m 51s,291422
+132825426,08/01/2023 01:34,300226,"Copper Box Arena, Queen Elizabeth Olympic Park",08/01/2023 01:48,300011,"Victoria Park Road, Hackney Central",22489,CLASSIC,14m 9s,849540
+132825427,08/01/2023 01:34,1064,"Old Street Station, St. Luke's",08/01/2023 01:52,3452,"Panton Street, West End",55634,CLASSIC,18m 41s,1121616
+132825433,08/01/2023 01:36,2691,"Howland Street, Fitzrovia",08/01/2023 01:37,2691,"Howland Street, Fitzrovia",52824,CLASSIC,5s,5780
+132825434,08/01/2023 01:38,3504,"Moor Street, Soho",08/01/2023 02:43,300249,"Westminster Pier, Westminster",23863,CLASSIC,1h 5m 19s,3919117
+132825435,08/01/2023 01:38,2685,"South Kensington Station, South Kensington",08/01/2023 02:18,200052,"Exhibition Road Museums 2, South Kensington",20097,CLASSIC,39m 48s,2388702
+132825438,08/01/2023 01:39,2685,"South Kensington Station, South Kensington",08/01/2023 02:18,200052,"Exhibition Road Museums 2, South Kensington",54847,CLASSIC,39m 18s,2358069
+132825439,08/01/2023 01:39,2685,"South Kensington Station, South Kensington",08/01/2023 02:18,200052,"Exhibition Road Museums 2, South Kensington",57926,CLASSIC,39m 19s,2359449
+132825440,08/01/2023 01:39,2685,"South Kensington Station, South Kensington",08/01/2023 02:18,200052,"Exhibition Road Museums 2, South Kensington",58419,CLASSIC,39m 17s,2357802
+132825436,08/01/2023 01:39,300074,"Newton Street, Covent Garden",08/01/2023 02:13,1018,"Phillimore Gardens, Kensington",55709,CLASSIC,34m 6s,2046250
+132825437,08/01/2023 01:39,300074,"Newton Street, Covent Garden",08/01/2023 02:06,200108,"Bishop's Bridge Road East, Bayswater",55191,CLASSIC,27m 14s,1634859
+132825441,08/01/2023 01:40,300074,"Newton Street, Covent Garden",08/01/2023 02:13,1018,"Phillimore Gardens, Kensington",54864,CLASSIC,32m 44s,1964258
+132825442,08/01/2023 01:40,300074,"Newton Street, Covent Garden",08/01/2023 02:10,1120,"Chepstow Villas, Notting Hill",14716,CLASSIC,30m 11s,1811417
