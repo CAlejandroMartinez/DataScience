@@ -1,0 +1,16 @@
+Example 1:En este ejemplo se realiza un analisis exploratprop básico:
+- Se carga un archivo CSV
+- Se revisan las dimensiones del documento
+- Se muestran los primeros 5 registros
+- Se muestran los ultimos 5 registros
+- Se muestra un resumen estadistico del contenido del data frame
+- Se muestra los tipos de datos y si alguno es nullo
+- Se muestra la suma de registros nulos por columna en caso de existir
+
+
+
+Example 2: En este ejemplo se realiza un analisis exploratprop básico:
+- Se verifica el tipo de enconding del archivo csv
+- Se carga el archivo CSV y se utiliza su respectivo encoding
+- Se modifica el tipo de dato Object a un formato fecha adecuado
+- Se muestra el resumen estadistico del data frame
