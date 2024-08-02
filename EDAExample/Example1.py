@@ -1,11 +1,11 @@
-'''En este ejemplo se realiza un analisis exploratprop básico:
+"""En este ejemplo se realiza un analisis exploratprop básico:
 - Se carga un archivo CSV
 - Se revisan las dimensiones del documento
 - Se muestran los primeros 5 registros
 - Se muestran los ultimos 5 registros
 - Se muestra un resumen estadistico del contenido del data frame
 - Se muestra los tipos de datos y si alguno es nullo
-- Se muestra la suma de registros nulos por columna en caso de existir  '''
+- Se muestra la suma de registros nulos por columna en caso de existir  """
 
 #Se importa la libreria pandas, la cual permite leer archivos CSV, xlsx y sql
 
