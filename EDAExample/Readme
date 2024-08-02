@@ -17,3 +17,7 @@ Example 2: En este ejemplo se realiza un analisis exploratprop básico:
 
 Example 3: En este ejemplo se realiza un cambio al tipo de datos, utilizando una función para retirar
 strings los cuales no permiten la transformación directa
+
+Example_SQL:'''Este ejemplo hace uso de un archivo sql para reconstruir las tablas de una base de datos, posteriormente se aplica
+un analisis exploratorio y se completan o eliminan los datos faltantes, finalmente, se procede a almacenar las tablas, esto puede ser
+dentro de un archivo sql, xlsx o csv, en el ejemplo se guadar en archivos CSV'''
