@@ -7,3 +7,8 @@ Example3: LondonBikeJourneyAug2023.cvs
 El archivo orginal se encuentra en
 'http://www.mysqltutorial.org/mysql-sample-database.aspx'
 Example SQL: mysqlsampledatabase.sql
+
+Ejemplo ML utiliza los archivos del sitio:
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+train.csv
+test.csv
