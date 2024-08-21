@@ -163,3 +163,19 @@ cython_debug/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Ignorar archivos temporales creados por Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos de configuración y entorno
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignorar los archivos de configuración específicos de Jupyter Notebook
+*.nbconvert.ipynb
+*.nbconvert_log
