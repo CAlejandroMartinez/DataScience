@@ -30,7 +30,7 @@ print(df.tail(5))
 
 # Se muestra un resumen estadistico del contenido del data frame
 
-print(df.describe())
+print(df.describe()) 
 
 # Se muestran los tipos de dato en cada columna asi como los registros no nulos
 print (df.info())
