@@ -73,10 +73,12 @@ ventas_x_mes=df_ventas.groupby([df_ventas['anio'],df_ventas['mes']])['amount'].s
 df_resultado = ventas_x_mes.reset_index()
 df_resultado.columns = ['año', 'mes', 'ventas_T']
 df_resultado['crecimiento']=df_resultado['ventas_T'].pct_change()
+print(df_resultado.info())
 fig4=plt.figure(figsize=(12,8))
 gs1=gridspec.GridSpec(2,1)
 ax4= fig4.add_subplot(gs1[0])
 ax5=fig4.add_subplot(gs1[1])
+df_resultado['año']=df_resultado['año'].astype(str)
 sns.barplot(df_resultado,x='mes',y='ventas_T',hue='año',ax=ax4,palette="Set2")
 sns.lineplot(df_resultado,x='mes',y='crecimiento',hue='año', markers='x',ax=ax5,palette="Set2")
 plt.tight_layout()
